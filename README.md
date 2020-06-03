@@ -12,3 +12,7 @@ GraphQL Explorer para endpoints que autenticam usando o Keycloak
 ## Porta do container
 
 - 8080
+
+## Imagem
+
+- tstlabs/keycloak-graphql-explorer
